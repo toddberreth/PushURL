@@ -1,0 +1,6 @@
+<group>
+	<remote_ip>127.0.0.1</remote_ip>
+	<remote_port>57120</remote_port>
+	<url_to_push>http://www.google.com</url_to_push>
+<group/>
+</group>
